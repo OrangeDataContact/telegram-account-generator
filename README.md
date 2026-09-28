@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Account+Generator-26A5E4?style=for-the-badge&logo=telegram" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="64" height="64" />
+</p>
+
 **⚡ Telegram Account Generator Free** — automated bulk account creation tool for Telegram. Creates verified accounts at scale with randomised profiles. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
